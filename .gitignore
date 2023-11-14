@@ -1,0 +1,28 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Chat Bot with Java/*
+!/Simple Chat Bot with Java/task/
+/Simple Chat Bot with Java/task/*
+!/Simple Chat Bot with Java/task/src
+
+# Project exclude paths
+/Topics/For-loop/Arithmetic average/out/
+/Topics/For-loop/Arithmetic average/out/production/classes/
+/Topics/For-loop/Numbers divisible by six/out/
+/Topics/For-loop/Numbers divisible by six/out/production/classes/
+/Topics/For-loop/Size of parts/out/
+/Topics/For-loop/Size of parts/out/production/classes/
+/Topics/For-loop/The count of numbers divisible by N/out/
+/Topics/For-loop/The count of numbers divisible by N/out/production/classes/
+/Topics/For-loop/The sum of integers from a to b/out/
+/Topics/For-loop/The sum of integers from a to b/out/production/classes/
